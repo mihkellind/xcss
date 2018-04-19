@@ -1,13 +1,284 @@
-// PADDING TOP
 
-// PADDING RIGHT
-
-// PADDING BOTTOM
-
-// PADDING LEFT
-
-// PADDING
-
-// PADDING Y
-
-// PADDING X
+// padding TOP
+.p-t_025 {
+    padding-top: 0.25em;
+}
+.p-t_050 {
+    padding-top: 0.5em;
+} 
+.p-t_075 {
+    padding-top: 0.75em;
+}
+.p-t_100 {
+    padding-top: 1em;
+}
+.p-t_125 {
+    padding-top: 1.25em;
+}
+.p-t_150 {
+    padding-top: 1.5em;
+}
+.p-t_175 {
+    padding-top: 1.75em;
+}
+.p-t_200 {
+    padding-top: 2em;
+}
+.p-t_225 {
+    padding-top: 2.25em;
+}
+.p-t_250 {
+    padding-top: 2.5em;
+}
+.p-t_275 {
+    padding-top: 2.75em;
+}
+.p-t_300 {
+    padding-top: 3em;
+}
+// padding RIGHT
+.p-r_025 {
+    padding-right: 0.25em;
+}
+.p-r_050 {
+    padding-right: 0.5em;
+} 
+.p-r_075 {
+    padding-right: 0.75em;
+}
+.p-r_100 {
+    padding-right: 1em;
+}
+.p-r_125 {
+    padding-right: 1.25em;
+}
+.p-r_150 {
+    padding-right: 1.5em;
+}
+.p-r_175 {
+    padding-right: 1.75em;
+}
+.p-r_200 {
+    padding-right: 2em;
+}
+.p-r_225 {
+    padding-right: 2.25em;
+}
+.p-r_250 {
+    padding-right: 2.5em;
+}
+.p-r_275 {
+    padding-right: 2.75em;
+}
+.p-r_300 {
+    padding-right: 3em;
+}
+// padding BOTTOM
+.p-b_025 {
+    padding-bottom: 0.25em;
+}
+.p-b_050 {
+    padding-bottom: 0.5em;
+} 
+.p-b_075 {
+    padding-bottom: 0.75em;
+}
+.p-b_100 {
+    padding-bottom: 1em;
+}
+.p-b_125 {
+    padding-bottom: 1.25em;
+}
+.p-b_150 {
+    padding-bottom: 1.5em;
+}
+.p-b_175 {
+    padding-bottom: 1.75em;
+}
+.p-b_200 {
+    padding-bottom: 2em;
+}
+.p-b_225 {
+    padding-bottom: 2.25em;
+}
+.p-b_250 {
+    padding-bottom: 2.5em;
+}
+.p-b_275 {
+    padding-bottom: 2.75em;
+}
+.p-b_300 {
+    padding-bottom: 3em;
+}
+// padding LEFT
+.p-l_025 {
+    padding-left: 0.25em;
+}
+.p-l_050 {
+    padding-left: 0.5em;
+} 
+.p-l_075 {
+    padding-left: 0.75em;
+}
+.p-l_100 {
+    padding-left: 1em;
+}
+.p-l_125 {
+    padding-left: 1.25em;
+}
+.p-l_150 {
+    padding-left: 1.5em;
+}
+.p-l_175 {
+    padding-left: 1.75em;
+}
+.p-l_200 {
+    padding-left: 2em;
+}
+.p-l_225 {
+    padding-left: 2.25em;
+}
+.p-l_250 {
+    padding-left: 2.5em;
+}
+.p-l_275 {
+    padding-left: 2.75em;
+}
+.p-l_300 {
+    padding-left: 3em;
+}
+// padding 
+.p_025 {
+    padding: 0.25em;
+}
+.p_050 {
+    padding: 0.5em;
+} 
+.p_075 {
+    padding: 0.75em;
+}
+.p_100 {
+    padding: 1em;
+}
+.p_125 {
+    padding: 1.25em;
+}
+.p_150 {
+    padding: 1.5em;
+}
+.p_175 {
+    padding: 1.75em;
+}
+.p_200 {
+    padding: 2em;
+}
+.p_225 {
+    padding: 2.25em;
+}
+.p_250 {
+    padding: 2.5em;
+}
+.p_275 {
+    padding: 2.75em;
+}
+.p_300 {
+    padding: 3em;
+}
+// padding X (RIGHT & LEFT)
+.p-x_025 {
+    padding-right: 0.25em;
+    padding-left: 0.25em;
+}
+.p-x_050 {
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+} 
+.p-x_075 {
+    padding-right: 0.75em;
+    padding-left: 0.75em;
+}
+.p-x_100 {
+    padding-right: 1em;
+    padding-left: 1em;
+}
+.p-x_125 {
+    padding-right: 1.25em;
+    padding-left: 1.25em;
+}
+.p-x_150 {
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+}
+.p-x_175 {
+    padding-right: 1.75em;
+    padding-left: 1.75em;
+}
+.p-x_200 {
+    padding-right: 2em;
+    padding-left: 2em;
+}
+.p-x_225 {
+    padding-right: 2.25em;
+    padding-left: 2.25em;
+}
+.p-x_250 {
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+}
+.p-x_275 {
+    padding-right: 2.75em;
+    padding-left: 2.75em;
+}
+.p-x_300 {
+    padding-right: 3em;
+    padding-left: 3em;
+}
+// padding Y (TOP & BOTTOM)
+.p-y_025 {
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+}
+.p-y_050 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+} 
+.p-y_075 {
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+}
+.p-y_100 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.p-y_125 {
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+}
+.p-y_150 {
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+.p-y_175 {
+    padding-top: 1.75em;
+    padding-bottom: 1.75em;
+}
+.p-y_200 {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.p-y_225 {
+    padding-top: 2.25em;
+    padding-bottom: 2.25em;
+}
+.p-y_250 {
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+}
+.p-y_275 {
+    padding-top: 2.75em;
+    padding-bottom: 2.75em;
+}
+.p-y_300 {
+    padding-top: 3em;
+    padding-bottom: 3em;
+}
