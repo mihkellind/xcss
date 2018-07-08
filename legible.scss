@@ -1,1 +1,128 @@
 // legible
+.legible {
+    max-width: 35em;
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.legible *+*:not(p):not(li):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(.header):not(.exclude):not(figcaption):not(ul):not(ol):not(hr) {
+    margin: 2.8em auto;
+}
+
+.legible h1,
+.legible h2,
+.legible h3,
+.legible h4,
+.legible h5,
+.legible h6 {
+    font-size: 1.266em;
+    line-height: 1.3;
+    font-weight: 700;
+    margin-top: 2.8rem;
+    margin-right: 0.75rem;
+    margin-left: 1rem;
+    margin-bottom: 1.4rem;
+}
+
+.legible p {
+    margin-top: 1.4em;
+    line-height: 1.4em;
+    margin-left: 1em;
+    margin-right: 0.75em;
+}
+
+.legible ul,
+.legible ol {
+    padding-left: 1.4em;
+    margin-top: 2.8em;
+    margin-bottom: 2.8em;
+    margin-left: 1em;
+    margin-right: 0.75em;
+}
+
+.legible li {
+    margin-top: 1.4em;
+    line-height: 1.4em;
+}
+
+.legible figcaption {
+    font-size: 0.702em;
+    color: #ffffff;
+    line-height: 1.4em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-left: 1rem;
+    padding-right: 0.5em;
+    background: black;
+}
+
+.legible img {
+    height: auto !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.legible hr {
+    background-color: transparent;
+    border-top: 1px dashed;
+    margin: 2.8em 1em;
+}
+
+@media screen and (min-width:400px) {
+    .legible *+*:not(p):not(li):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(.header):not(.exclude):not(figcaption):not(ul):not(ol):not(hr) {
+        margin: 2.8em auto;
+    }
+    .legible h1,
+    .legible h2,
+    .legible h3,
+    .legible h4,
+    .legible h5,
+    .legible h6 {
+        font-size: 1.266em;
+        line-height: 1.3;
+        font-weight: 700;
+        margin-top: 3rem;
+        margin-right: 0.75rem;
+        margin-left: 1rem;
+        margin-bottom: 1.4rem;
+    }
+    .legible p {
+        margin-top: 1.5em;
+        line-height: 1.5em;
+        margin-left: 1em;
+        margin-right: 0.75em;
+    }
+    .legible ul,
+    .legible ol {
+        padding-left: 1.5em;
+        margin-top: 3em;
+        margin-bottom: 3em;
+        margin-left: 1em;
+        margin-right: 0.75em;
+    }
+    .legible li {
+        margin-top: 1.5em;
+        line-height: 1.5em;
+    }
+    .legible figcaption {
+        font-size: 0.702em;
+        color: #ffffff;
+        line-height: 1.5em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-left: 1rem;
+        padding-right: 0.5em;
+        background: black;
+    }
+    .legible img {
+        height: auto !important;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .legible hr {
+        background-color: transparent;
+        border-top: 1px dashed;
+        margin: 3em 1em;
+    }
+}
