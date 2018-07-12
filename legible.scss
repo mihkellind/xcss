@@ -1,8 +1,4 @@
 // legible
-.legible {
-    max-width: 35em;
-    font-family: 'IBM Plex Serif', serif;
-}
 
 .legible *+*:not(p):not(li):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(.header):not(.exclude):not(figcaption):not(ul):not(ol):not(hr) {
     margin: 2.8em auto;
